@@ -12,7 +12,7 @@ The first time you run a book example that uses the Curity Identity Server, you 
 
 ```text
 This script gets a book license file for the Curity Identity Server.
-A CLI will run a code flow in your browser to get an access token with which to download the license.
+A CLI will run a code flow in your browser to get an access token.
 Press a key to continue ...
 ```
 
