@@ -1,6 +1,9 @@
-# License for the Curity Identity Server
+# Book License for the Curity Identity Server
 
-Deployments of the Curity Identity Server require a license file which scripts get automatically.
+A utility for readers of the O'Reilly book to get a license file for Curity Identity Server:
+
+- [Cloud Native Data Security with OAuth](https://www.oreilly.com/library/view/cloud-native-data/9781098164874/)
+- [Code and Deployment Examples](https://github.com/curityio/cloud-native-oauth-security-examples)
 
 ## Option 1: Get a License with a Tool
 
@@ -13,7 +16,6 @@ A CLI will run a code flow in the system browser to get an access token with whi
 Press a key to continue ...
 ```
 
-The CLI runs a code flow to get an access token.\
 During the code flow you can choose from one of the following login options:
 
 - Verify your email address
