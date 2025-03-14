@@ -11,8 +11,8 @@ An API provides license files and requires an access token to authorize the requ
 The first time you run a book example that uses the Curity Identity Server, you receive a prompt:
 
 ```text
- This script gets a book license file for the Curity Identity Server.
-A CLI will run a code flow in the system browser to get an access token with which to download the license.
+This script gets a book license file for the Curity Identity Server.
+A CLI will run a code flow in your browser to get an access token with which to download the license.
 Press a key to continue ...
 ```
 
