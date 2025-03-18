@@ -25,7 +25,7 @@ During the code flow you can choose from one of the following login options:
 When the code flow completes, the CLI saves a `license.json` file to disk.\
 The license saves to the `resources/authorizationserver/license` folder of the deployment examples.
 
-## Option 2: Provide Your Own Licnse
+## Option 2: Provide Your Own License
 
 If you prefer, you can instead provide your own licese.\
 If for some reason you have problems running the CLI, get a [community edition license](https://developer.curity.io/community-edition/) from the Curity website.\
