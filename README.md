@@ -28,8 +28,10 @@ The license saves to the `resources/authorizationserver/license` folder of the d
 ## Option 2: Provide Your Own License
 
 If you prefer, you can instead provide your own licese.\
-If for some reason you have problems running the CLI, get a [community edition license](https://developer.curity.io/community-edition/) from the Curity website.\
-Rename your `license.json` file to `license-override.json` and copy it into the `resources/authorizationserver/license` folder.
+If for some reason you have problems running the CLI, get a [community edition license](https://developer.curity.io/community-edition/) from the Curity website:
+
+- First rename your `license.json` file to `license-override.json`
+- Then copy that file into the `resources/authorizationserver/license` folder.
 
 ## Using Passkeys
 
