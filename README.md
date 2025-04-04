@@ -1,6 +1,6 @@
 # Book License for the Curity Identity Server
 
-A utility for readers of the O'Reilly book to get a license file for Curity Identity Server:
+A utility for readers of the O'Reilly book to get a community edition license file for Curity Identity Server:
 
 - [Cloud Native Data Security with OAuth](https://www.oreilly.com/library/view/cloud-native-data/9781098164874/)
 - [Code and Deployment Examples](https://github.com/curityio/cloud-native-oauth-security-examples)
@@ -8,7 +8,8 @@ A utility for readers of the O'Reilly book to get a license file for Curity Iden
 ## Option 1: Get a License with a Tool
 
 An API provides license files and requires an access token to authorize the request.\
-The first time you run a book example that uses the Curity Identity Server, you receive a prompt:
+The first time you run a book example that uses the Curity Identity Server, a [license download script](https://github.com/curityio/cloud-native-oauth-security-examples/tree/main/resources/authorizationserver/license/download-license.sh) runs.\
+You then receive the following prompt to run a code flow to  get an access token:
 
 ```text
 This script gets a book license file for the Curity Identity Server.
